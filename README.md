@@ -5,7 +5,7 @@
 
 主程序:dou2.py 
 
-
+http://www.miaoss.com/
 
 Mac/Liunx 运行程序(python dou2.py)即可。
 
